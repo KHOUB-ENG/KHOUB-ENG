@@ -32,7 +32,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [Autonomous Web Agent](https://github.com/KHOUB-ENG/web-agent)
+### 🤖 [Autonomous Web Agent](https://github.com/KHOUB-ENG/Autonomous-Web-Agent)
 An autonomous agent built on **Google Gemini function-calling**: give it a task and it decides
 which tools to use — web search, page-reading, code-writing, or vision — runs them in a loop, and
 answers. Runs as an interactive CLI **or** a FastAPI REST service with per-session memory.
@@ -45,7 +45,7 @@ dashboard — with retry/backoff, live progress streaming, per-agent generation 
 resumable session state.
 `Python` · `Flask` · `Google Gemini` · `SQLite` · `Multi-agent orchestration` · `pytest`
 
-### 📚 [Document Intelligence Engine](https://github.com/KHOUB-ENG/doc-intel-cli)
+### 📚 [Document Intelligence Engine](https://github.com/KHOUB-ENG/Document-Intelligence-Engine)
 A from-scratch **semantic search + RAG** CLI — ask questions about a PDF and get answers grounded
 in the text. I implemented the vector search (**embeddings + cosine similarity**) by hand with
 NumPy to understand how it works, rather than reaching for a vector-database library.
