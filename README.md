@@ -8,11 +8,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kian-khoubehi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/KHOUB-ENG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- Add once your site is live:
-  <a href="https://khoub-eng.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  -->
+  <a href="https://khoub-eng.github.io">
+   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+ </a>
 </p>
-
 <p align="center">
   <i>"Once you have tasted flight, you will forever walk the earth with your eyes turned skyward."</i><br/>
   — Leonardo da Vinci
