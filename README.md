@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kian Khoubehi 👋</h1>
+<h1 align="center">Hello, I'm Kian Khoubehi 👋</h1>
 
 <p align="center">
   <b>🛰️ Aerospace Engineering student · developing Coding & AI skills</b><br/>
